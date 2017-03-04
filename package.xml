@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<package>
+  <name>LUKA_GoogleAdWords</name>
+  <version>1.0.2</version>
+  <stability>stable</stability>
+  <license uri="http://www.gnu.org/licenses/gpl-3.0.txt">GNU General Public License 3</license>
+  <channel>community</channel>
+  <summary>This Module integrates the Google AdWords Conversion Tracking code.</summary>
+  <description>This Module integrates the Google AdWords Conversion Tracking code into Magento.
+
+The code will be placed on the configured pages in the system config.
+You can find the source code on github: https://github.com/lukanetconsult/mage-google-adwords
+Report Issues on github: https://github.com/lukanetconsult/mage-google-adwords/issues</description>
+  <notes><![CDATA[# Version 1.0.2
+
+Fixed issues with Google's Tag Assistant validator. (Thanks to @nja78)
+See https://github.com/lukanetconsult/mage-google-adwords/pull/8
+
+# Version 1.0.1
+
+Fixed possible different conversion values in script and noscript
+See https://github.com/lukanetconsult/mage-google-adwords/issues/5
+
+# Version 1.0
+
+**Important**:
+The system configuration for this module has changed to support multiple conversions!
+You have to re-configure your conversion tracking IDs.
+
+* Added support for multiple conversions
+* Moved tracking code to `before_body_end` block.
+* Moved design components to base package
+* Dropped 1.3 and 1.4 support
+]]></notes>
+  <authors>
+    <author>
+      <name>Axel Helmert</name>
+      <user>tuxrampage</user>
+      <email>ah@luka.de</email>
+    </author>
+  </authors>
+  <date>2015-03-12</date>
+  <time>09:23:31</time>
+  <contents>
+    <target name="magelocale">
+      <dir name="de_DE">
+        <file name="LUKA_GoogleAdWords.csv" hash="3e28fb20bf5ba663f8acf1281492a02b"/>
+      </dir>
+    </target>
+    <target name="magecommunity">
+      <dir name="LUKA">
+        <dir name="GoogleAdWords">
+          <dir name="Block">
+            <dir name="Adminhtml">
+              <dir name="Config">
+                <dir name="Conversion">
+                  <file name="Select.php" hash="77c995a751380b366305cbada5895aae"/>
+                </dir>
+                <file name="Conversions.php" hash="83bc6085413d1d06cf88db689f71f3a3"/>
+              </dir>
+            </dir>
+            <file name="Conversion.php" hash="9d4479544d0ed4a9efc10db304ac365c"/>
+          </dir>
+          <dir name="etc">
+            <file name="config.xml" hash="d6350880290eff85dacc560f605cce5c"/>
+            <file name="system.xml" hash="6e8d1c04b4b1d3751ed5b4d369e11a62"/>
+          </dir>
+          <dir name="Helper">
+            <file name="Data.php" hash="7ce3036cc683dbd6c051ba5b5ca26aab"/>
+          </dir>
+          <file name="LICENSE" hash="d32239bcb673463ab874e80d47fae504"/>
+          <dir name="Model">
+            <dir name="Conversion">
+              <file name="Collection.php" hash="b0046b139bebb9855bc04cfb6675bd8d"/>
+            </dir>
+            <file name="Conversion.php" hash="95f26dddf6d6db2368b698dd7c89cbc0"/>
+            <dir name="Config">
+              <dir name="Source">
+                <file name="Format.php" hash="d737211284739439554e7452d1ee2723"/>
+              </dir>
+            </dir>
+          </dir>
+        </dir>
+      </dir>
+    </target>
+    <target name="magedesign">
+      <dir name="frontend">
+        <dir name="base">
+          <dir name="default">
+            <dir name="template">
+              <dir name="luka">
+                <dir name="google">
+                  <dir name="adwords">
+                    <file name="conversion.phtml" hash="b0cd232fe999f86441581ecd71154484"/>
+                  </dir>
+                </dir>
+              </dir>
+            </dir>
+            <dir name="layout">
+              <file name="luka_googleadwords.xml" hash="353e80e828d607b6fa2e7cfed226c11e"/>
+            </dir>
+          </dir>
+        </dir>
+      </dir>
+      <dir name="adminhtml">
+        <dir name="default">
+          <dir name="default">
+            <dir name="template">
+              <dir name="luka">
+                <dir name="google">
+                  <dir name="adwords">
+                    <dir name="config">
+                      <file name="conversions.phtml" hash="5f104879ac02fc30e4742005fdeea845"/>
+                    </dir>
+                  </dir>
+                </dir>
+              </dir>
+            </dir>
+          </dir>
+        </dir>
+      </dir>
+    </target>
+    <target name="mageetc">
+      <dir name="modules">
+        <file name="LUKA_GoogleAdWords.xml" hash="affe6a5ded5f194c9f61788b1685ddf2"/>
+      </dir>
+    </target>
+  </contents>
+</package>

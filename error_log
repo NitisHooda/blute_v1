@@ -1,0 +1,2 @@
+[13-Feb-2017 16:25:04 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/makersga/public_html/myblute.com/app/design/frontend/rwd/default/template/catalog/product/list.phtml on line 39
+[13-Feb-2017 19:28:19 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/makersga/public_html/myblute.com/app/design/frontend/rwd/default/template/catalog/product/list.phtml on line 39
