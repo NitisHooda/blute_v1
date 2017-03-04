@@ -1,0 +1,88 @@
+2017-02-24T10:22:39+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:22:39+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:22:39+00:00 ERR (3): Warning: include() [<a href='function.include'>function.include</a>]: Failed opening 'CitrusPay/Moto/Model/PaymentLogic.php' for inclusion (include_path='/home/makersga/public_html/myblute.com/app/code/local:/home/makersga/public_html/myblute.com/app/code/community:/home/makersga/public_html/myblute.com/app/code/core:/home/makersga/public_html/myblute.com/lib:.:/usr/lib/php:/usr/local/lib/php')  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:22:50+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:22:50+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:22:50+00:00 ERR (3): Warning: include() [<a href='function.include'>function.include</a>]: Failed opening 'CitrusPay/Moto/Model/PaymentLogic.php' for inclusion (include_path='/home/makersga/public_html/myblute.com/app/code/local:/home/makersga/public_html/myblute.com/app/code/community:/home/makersga/public_html/myblute.com/app/code/core:/home/makersga/public_html/myblute.com/lib:.:/usr/lib/php:/usr/local/lib/php')  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:16+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:16+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:16+00:00 ERR (3): Warning: include() [<a href='function.include'>function.include</a>]: Failed opening 'CitrusPay/Moto/Model/PaymentLogic.php' for inclusion (include_path='/home/makersga/public_html/myblute.com/app/code/local:/home/makersga/public_html/myblute.com/app/code/community:/home/makersga/public_html/myblute.com/app/code/core:/home/makersga/public_html/myblute.com/lib:.:/usr/lib/php:/usr/local/lib/php')  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:24+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:24+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:24+00:00 ERR (3): Warning: include() [<a href='function.include'>function.include</a>]: Failed opening 'CitrusPay/Moto/Model/PaymentLogic.php' for inclusion (include_path='/home/makersga/public_html/myblute.com/app/code/local:/home/makersga/public_html/myblute.com/app/code/community:/home/makersga/public_html/myblute.com/app/code/core:/home/makersga/public_html/myblute.com/lib:.:/usr/lib/php:/usr/local/lib/php')  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:38+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:38+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:38+00:00 ERR (3): Warning: include() [<a href='function.include'>function.include</a>]: Failed opening 'CitrusPay/Moto/Model/PaymentLogic.php' for inclusion (include_path='/home/makersga/public_html/myblute.com/app/code/local:/home/makersga/public_html/myblute.com/app/code/community:/home/makersga/public_html/myblute.com/app/code/core:/home/makersga/public_html/myblute.com/lib:.:/usr/lib/php:/usr/local/lib/php')  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:52+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:52+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:52+00:00 ERR (3): Warning: include() [<a href='function.include'>function.include</a>]: Failed opening 'CitrusPay/Moto/Model/PaymentLogic.php' for inclusion (include_path='/home/makersga/public_html/myblute.com/app/code/local:/home/makersga/public_html/myblute.com/app/code/community:/home/makersga/public_html/myblute.com/app/code/core:/home/makersga/public_html/myblute.com/lib:.:/usr/lib/php:/usr/local/lib/php')  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:59+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:59+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:23:59+00:00 ERR (3): Warning: include() [<a href='function.include'>function.include</a>]: Failed opening 'CitrusPay/Moto/Model/PaymentLogic.php' for inclusion (include_path='/home/makersga/public_html/myblute.com/app/code/local:/home/makersga/public_html/myblute.com/app/code/community:/home/makersga/public_html/myblute.com/app/code/core:/home/makersga/public_html/myblute.com/lib:.:/usr/lib/php:/usr/local/lib/php')  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:25:10+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:25:10+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T10:25:10+00:00 ERR (3): Warning: include() [<a href='function.include'>function.include</a>]: Failed opening 'CitrusPay/Moto/Model/PaymentLogic.php' for inclusion (include_path='/home/makersga/public_html/myblute.com/app/code/local:/home/makersga/public_html/myblute.com/app/code/community:/home/makersga/public_html/myblute.com/app/code/core:/home/makersga/public_html/myblute.com/lib:.:/usr/lib/php:/usr/local/lib/php')  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-02-24T13:53:17+00:00 ERR (3): Warning: ini_set() has been disabled for security reasons  in /home/makersga/public_html/myblute.com/lib/Varien/Io/File.php on line 134
+2017-02-24T13:53:18+00:00 ERR (3): Warning: ini_set() has been disabled for security reasons  in /home/makersga/public_html/myblute.com/lib/Varien/Io/File.php on line 134
+2017-02-25T07:27:14+00:00 DEBUG (7): Citrus Response Order canceled ..
+2017-02-25T07:27:14+00:00 DEBUG (7): Citrus Transaction END from Citruspay
+2017-02-25T19:54:52+00:00 ERR (3): Warning: getimagesize(http://myblute.com/skin/adminhtml/base/default/images/cookies/ie7-6.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/makersga/public_html/myblute.com/lib/Varien/Image/Adapter/Abstract.php on line 87
+2017-02-25T19:54:52+00:00 ERR (3): Warning: getimagesize(http://myblute.com/skin/adminhtml/base/default/images/cookies/ie7-1.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/makersga/public_html/myblute.com/lib/Varien/Image/Adapter/Abstract.php on line 87
+2017-02-25T19:54:52+00:00 ERR (3): Warning: getimagesize(http://myblute.com/skin/adminhtml/base/default/images/cookies/firefox.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/makersga/public_html/myblute.com/lib/Varien/Image/Adapter/Abstract.php on line 87
+2017-02-25T19:54:52+00:00 ERR (3): Warning: getimagesize(http://myblute.com/skin/adminhtml/base/default/images/cookies/firefox.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/makersga/public_html/myblute.com/lib/Varien/Image/Adapter/Gd2.php on line 91
+2017-02-25T19:54:53+00:00 ERR (3): Warning: getimagesize(http://myblute.com/skin/adminhtml/base/default/images/cookies/ie7-6.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/makersga/public_html/myblute.com/lib/Varien/Image/Adapter/Gd2.php on line 91
+2017-02-25T19:54:53+00:00 ERR (3): Warning: getimagesize(http://myblute.com/skin/adminhtml/base/default/images/cookies/ie7-1.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/makersga/public_html/myblute.com/lib/Varien/Image/Adapter/Gd2.php on line 91
+2017-02-25T20:12:37+00:00 DEBUG (7): Citrus Response Order canceled ..
+2017-02-25T20:12:37+00:00 DEBUG (7): Citrus Transaction END from Citruspay
+2017-02-26T07:04:40+00:00 DEBUG (7): Citrus Response Order canceled ..
+2017-02-26T07:04:40+00:00 DEBUG (7): Citrus Transaction END from Citruspay
+2017-02-27T09:55:00+00:00 DEBUG (7): Citrus Response Order canceled ..
+2017-02-27T09:55:00+00:00 DEBUG (7): Citrus Transaction END from Citruspay
+2017-02-28T11:59:45+00:00 DEBUG (7): Citrus Response Order canceled ..
+2017-02-28T11:59:45+00:00 DEBUG (7): Citrus Transaction END from Citruspay
+2017-03-01T09:41:34+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php): failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-03-01T09:41:34+00:00 ERR (3): Warning: include(CitrusPay/Moto/Model/PaymentLogic.php): failed to open stream: No such file or directory  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-03-01T09:41:34+00:00 ERR (3): Warning: include(): Failed opening 'CitrusPay/Moto/Model/PaymentLogic.php' for inclusion (include_path='/home/makersga/public_html/myblute.com/app/code/local:/home/makersga/public_html/myblute.com/app/code/community:/home/makersga/public_html/myblute.com/app/code/core:/home/makersga/public_html/myblute.com/lib:.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php')  in /home/makersga/public_html/myblute.com/lib/Varien/Autoload.php on line 94
+2017-03-01T09:51:59+00:00 ERR (3): Warning: mkdir(): File exists  in /home/makersga/public_html/myblute.com/downloader/lib/Mage/Connect/Packager.php on line 501
+2017-03-01T09:55:40+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T09:59:11+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T10:02:14+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T10:08:37+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T10:08:55+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T10:09:14+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T10:09:49+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T10:11:16+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T10:13:37+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T10:21:25+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T10:27:03+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T10:30:56+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T10:31:06+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T10:42:19+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T10:56:48+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T11:01:37+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-01T11:12:35+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T05:04:23+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T05:07:37+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T06:02:52+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T06:03:27+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T06:03:38+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T06:18:29+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T06:28:47+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T06:33:29+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T06:39:50+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T07:01:35+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T07:02:59+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T07:04:46+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T07:33:32+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T07:38:53+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T07:40:34+00:00 ERR (3): Notice: Undefined index: grand_total  in /home/makersga/public_html/myblute.com/app/code/community/Facebook/AdsToolbox/Block/Purchase.php on line 30
+2017-03-02T07:48:38+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-02T07:49:10+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-03T12:42:30+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml
+2017-03-03T12:51:49+00:00 CRIT (2): Not valid template file:frontend/base/default/template/payucheckout/shared/form.phtml

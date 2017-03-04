@@ -1,0 +1,126 @@
+2017-02-24T13:53:17+00:00 INFO (6): Current Memory usage: 18.143906 M / 512M
+2017-02-24T13:53:18+00:00 INFO (6): Feed Generation Time Estimate: 30.2692047358
+2017-02-24T13:53:18+00:00 INFO (6): feed generation start...
+2017-02-24T13:53:18+00:00 INFO (6): Generating Categories
+2017-02-24T13:53:18+00:00 INFO (6): going to generate file:facebook_adstoolbox_product_feed.tsv
+2017-02-24T13:53:18+00:00 INFO (6): About to begin writing 2 products
+2017-02-24T13:53:18+00:00 INFO (6): Current Memory usage: 19.577194 M / 512M
+2017-02-24T13:53:18+00:00 INFO (6): scanning products [0 -> 2)...
+
+2017-02-24T13:53:18+00:00 INFO (6): generating gzip copy of facebook_adstoolbox_product_feed.tsv ...
+2017-02-24T13:53:18+00:00 INFO (6): generated!
+2017-02-24T13:53:18+00:00 INFO (6): feed generation finished, time used: 0 seconds
+2017-02-25T13:52:58+00:00 INFO (6): Current Memory usage: 4.135704 M / 128M
+2017-02-25T13:53:00+00:00 INFO (6): Feed Generation Time Estimate: 32.987877130508
+2017-02-25T13:53:06+00:00 INFO (6): feed generation start...
+2017-02-25T13:53:06+00:00 INFO (6): Generating Categories
+2017-02-25T13:53:06+00:00 INFO (6): going to generate file:facebook_adstoolbox_product_feed.tsv
+2017-02-25T13:53:06+00:00 INFO (6): About to begin writing 2 products
+2017-02-25T13:53:06+00:00 INFO (6): Current Memory usage: 4.669792 M / 128M
+2017-02-25T13:53:06+00:00 INFO (6): scanning products [0 -> 2)...
+
+2017-02-25T13:53:06+00:00 INFO (6): generating gzip copy of facebook_adstoolbox_product_feed.tsv ...
+2017-02-25T13:53:06+00:00 INFO (6): generated!
+2017-02-25T13:53:06+00:00 INFO (6): feed generation finished, time used: 0 seconds
+2017-02-26T13:52:26+00:00 INFO (6): Current Memory usage: 4.119003 M / 1024M
+2017-02-26T13:52:26+00:00 INFO (6): Feed Generation Time Estimate: 30.728092432022
+2017-02-26T13:52:27+00:00 INFO (6): feed generation start...
+2017-02-26T13:52:27+00:00 INFO (6): Generating Categories
+2017-02-26T13:52:27+00:00 INFO (6): going to generate file:facebook_adstoolbox_product_feed.tsv
+2017-02-26T13:52:27+00:00 INFO (6): About to begin writing 2 products
+2017-02-26T13:52:27+00:00 INFO (6): Current Memory usage: 4.669464 M / 1024M
+2017-02-26T13:52:27+00:00 INFO (6): scanning products [0 -> 2)...
+
+2017-02-26T13:52:27+00:00 INFO (6): generating gzip copy of facebook_adstoolbox_product_feed.tsv ...
+2017-02-26T13:52:27+00:00 INFO (6): generated!
+2017-02-26T13:52:27+00:00 INFO (6): feed generation finished, time used: 0 seconds
+2017-02-27T09:24:36+00:00 INFO (6): Current Memory usage: 4.876877 M / 1024M
+2017-02-27T09:24:36+00:00 INFO (6): Feed Generation Time Estimate: 30.389012932777
+2017-02-27T09:24:37+00:00 INFO (6): feed generation start...
+2017-02-27T09:24:37+00:00 INFO (6): Generating Categories
+2017-02-27T09:24:37+00:00 INFO (6): going to generate file:facebook_adstoolbox_product_feed.tsv
+2017-02-27T09:24:37+00:00 INFO (6): About to begin writing 2 products
+2017-02-27T09:24:37+00:00 INFO (6): Current Memory usage: 4.669846 M / 1024M
+2017-02-27T09:24:37+00:00 INFO (6): scanning products [0 -> 2)...
+
+2017-02-27T09:24:37+00:00 INFO (6): generating gzip copy of facebook_adstoolbox_product_feed.tsv ...
+2017-02-27T09:24:37+00:00 INFO (6): generated!
+2017-02-27T09:24:37+00:00 INFO (6): feed generation finished, time used: 0 seconds
+2017-02-27T09:39:07+00:00 INFO (6): feed generation start...
+2017-02-27T09:39:07+00:00 INFO (6): Generating Categories
+2017-02-27T09:39:07+00:00 INFO (6): going to generate file:facebook_adstoolbox_product_feed.tsv
+2017-02-27T09:39:07+00:00 INFO (6): About to begin writing 2 products
+2017-02-27T09:39:07+00:00 INFO (6): Current Memory usage: 5.128876 M / 1024M
+2017-02-27T09:39:07+00:00 INFO (6): scanning products [0 -> 2)...
+
+2017-02-27T09:39:07+00:00 INFO (6): generating gzip copy of facebook_adstoolbox_product_feed.tsv ...
+2017-02-27T09:39:07+00:00 INFO (6): generated!
+2017-02-27T09:39:07+00:00 INFO (6): feed generation finished, time used: 0 seconds
+2017-02-27T13:52:30+00:00 INFO (6): feed generation start...
+2017-02-27T13:52:30+00:00 INFO (6): feed files are fresh and complete, skip generation, time used: 0 seconds
+2017-02-27T16:51:01+00:00 INFO (6): feed generation start...
+2017-02-27T16:51:01+00:00 INFO (6): Generating Categories
+2017-02-27T16:51:01+00:00 INFO (6): going to generate file:facebook_adstoolbox_product_feed.tsv
+2017-02-27T16:51:01+00:00 INFO (6): About to begin writing 2 products
+2017-02-27T16:51:01+00:00 INFO (6): Current Memory usage: 5.129883 M / 1024M
+2017-02-27T16:51:01+00:00 INFO (6): scanning products [0 -> 2)...
+
+2017-02-27T16:51:01+00:00 INFO (6): generating gzip copy of facebook_adstoolbox_product_feed.tsv ...
+2017-02-27T16:51:01+00:00 INFO (6): generated!
+2017-02-27T16:51:01+00:00 INFO (6): feed generation finished, time used: 0 seconds
+2017-02-28T13:52:33+00:00 INFO (6): Current Memory usage: 4.135590 M / 1024M
+2017-02-28T13:52:33+00:00 INFO (6): Feed Generation Time Estimate: 30.203635454178
+2017-02-28T13:52:34+00:00 INFO (6): feed generation start...
+2017-02-28T13:52:34+00:00 INFO (6): Generating Categories
+2017-02-28T13:52:34+00:00 INFO (6): going to generate file:facebook_adstoolbox_product_feed.tsv
+2017-02-28T13:52:34+00:00 INFO (6): About to begin writing 2 products
+2017-02-28T13:52:34+00:00 INFO (6): Current Memory usage: 4.669846 M / 1024M
+2017-02-28T13:52:34+00:00 INFO (6): scanning products [0 -> 2)...
+
+2017-02-28T13:52:34+00:00 INFO (6): generating gzip copy of facebook_adstoolbox_product_feed.tsv ...
+2017-02-28T13:52:34+00:00 INFO (6): generated!
+2017-02-28T13:52:34+00:00 INFO (6): feed generation finished, time used: 0 seconds
+2017-03-01T11:08:32+00:00 INFO (6): Current Memory usage: 4.134155 M / 1024M
+2017-03-01T11:08:32+00:00 INFO (6): Feed Generation Time Estimate: 30.217678427696
+2017-03-01T11:08:33+00:00 INFO (6): feed generation start...
+2017-03-01T11:08:33+00:00 INFO (6): Generating Categories
+2017-03-01T11:08:33+00:00 INFO (6): going to generate file:facebook_adstoolbox_product_feed.tsv
+2017-03-01T11:08:33+00:00 INFO (6): About to begin writing 2 products
+2017-03-01T11:08:33+00:00 INFO (6): Current Memory usage: 4.670052 M / 1024M
+2017-03-01T11:08:33+00:00 INFO (6): scanning products [0 -> 2)...
+
+2017-03-01T11:08:33+00:00 INFO (6): generating gzip copy of facebook_adstoolbox_product_feed.tsv ...
+2017-03-01T11:08:33+00:00 INFO (6): generated!
+2017-03-01T11:08:33+00:00 INFO (6): feed generation finished, time used: 0 seconds
+2017-03-01T13:55:25+00:00 INFO (6): feed generation start...
+2017-03-01T13:55:25+00:00 INFO (6): feed files are fresh and complete, skip generation, time used: 0 seconds
+2017-03-02T09:24:34+00:00 INFO (6): Current Memory usage: 4.134956 M / 1024M
+2017-03-02T09:24:35+00:00 INFO (6): Feed Generation Time Estimate: 30.254575610161
+2017-03-02T09:24:35+00:00 INFO (6): feed generation start...
+2017-03-02T09:24:35+00:00 INFO (6): Generating Categories
+2017-03-02T09:24:35+00:00 INFO (6): going to generate file:facebook_adstoolbox_product_feed.tsv
+2017-03-02T09:24:35+00:00 INFO (6): About to begin writing 2 products
+2017-03-02T09:24:35+00:00 INFO (6): Current Memory usage: 4.669617 M / 1024M
+2017-03-02T09:24:35+00:00 INFO (6): scanning products [0 -> 2)...
+
+2017-03-02T09:24:35+00:00 INFO (6): generating gzip copy of facebook_adstoolbox_product_feed.tsv ...
+2017-03-02T09:24:35+00:00 INFO (6): generated!
+2017-03-02T09:24:35+00:00 INFO (6): feed generation finished, time used: 0 seconds
+2017-03-02T13:52:50+00:00 INFO (6): Current Memory usage: 4.134956 M / 1024M
+2017-03-02T13:52:51+00:00 INFO (6): Feed Generation Time Estimate: 32.779045343399
+2017-03-02T13:52:52+00:00 INFO (6): feed generation start...
+2017-03-02T13:52:52+00:00 INFO (6): feed files are fresh and complete, skip generation, time used: 0 seconds
+2017-03-03T09:25:59+00:00 INFO (6): Current Memory usage: 4.134155 M / 1024M
+2017-03-03T09:25:59+00:00 INFO (6): Feed Generation Time Estimate: 30.198442697525
+2017-03-03T09:26:00+00:00 INFO (6): feed generation start...
+2017-03-03T09:26:00+00:00 INFO (6): Generating Categories
+2017-03-03T09:26:00+00:00 INFO (6): going to generate file:facebook_adstoolbox_product_feed.tsv
+2017-03-03T09:26:00+00:00 INFO (6): About to begin writing 2 products
+2017-03-03T09:26:00+00:00 INFO (6): Current Memory usage: 4.670052 M / 1024M
+2017-03-03T09:26:00+00:00 INFO (6): scanning products [0 -> 2)...
+
+2017-03-03T09:26:00+00:00 INFO (6): generating gzip copy of facebook_adstoolbox_product_feed.tsv ...
+2017-03-03T09:26:00+00:00 INFO (6): generated!
+2017-03-03T09:26:00+00:00 INFO (6): feed generation finished, time used: 0 seconds
+2017-03-03T13:52:01+00:00 INFO (6): feed generation start...
+2017-03-03T13:52:01+00:00 INFO (6): feed files are fresh and complete, skip generation, time used: 0 seconds

@@ -1,0 +1,48 @@
+<h2 class="subtitle">CHECKOUT OUR TWO VARIANTS</h2>
+                    <ul class="products-grid">
+                    <li class="item first">
+                <a href="http://myblute.com/index.php/greenteafordiabetescontrol.html?___SID=U" title="Blute: Diabetes Control" class="product-image"><img src="http://myblute.com/media/catalog/product/cache/1/small_image/135x/9df78eab33525d08d6e5fb8d27136e95/b/a/bannerdiabetes.png" width="135px" height="135px"  alt="Blute: Diabetes Control" /></a>
+               <!-- <h3 class="product-name"><a href="http://myblute.com/index.php/greenteafordiabetescontrol.html?___SID=U" title="Blute: Diabetes Control">Blute: Diabetes Control</a></h3>
+                
+                                
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-1-new">
+                                            <span class="price">₹350.00</span>                                    </span>
+                        
+        </div>
+
+ -->
+                <div class="actions">
+                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://myblute.com/index.php/checkout/cart/add/uenc/aHR0cDovL215Ymx1dGUuY29tLw,,/product/1/form_key/ChKKzJ1MAeajwqZo/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                        <ul class="add-to-links">
+                                                    <li><a href="http://myblute.com/index.php/wishlist/index/add/product/1/form_key/ChKKzJ1MAeajwqZo/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                            <li><span class="separator">|</span> <a href="http://myblute.com/index.php/catalog/product_compare/add/product/1/uenc/aHR0cDovL215Ymx1dGUuY29tLw,,/form_key/ChKKzJ1MAeajwqZo/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                            </ul>
+                </div>
+            </li>
+                                <li class="item last">
+                <a href="http://myblute.com/index.php/greenteaforweightloss.html?___SID=U" title="Blute: Weight Loss" class="product-image"><img src="http://myblute.com/media/catalog/product/cache/1/small_image/135x/9df78eab33525d08d6e5fb8d27136e95/0/8/08_23_13_collection_25tea_2.jpg" width="135px" height="135px"  alt="Blute: Weight Loss" /></a>
+               <!-- <h3 class="product-name"><a href="http://myblute.com/index.php/greenteaforweightloss.html?___SID=U" title="Blute: Weight Loss">Blute: Weight Loss</a></h3>
+                
+                                
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-3-new">
+                                            <span class="price">₹350.00</span>                                    </span>
+                        
+        </div>
+
+ -->
+                <div class="actions">
+                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://myblute.com/index.php/checkout/cart/add/uenc/aHR0cDovL215Ymx1dGUuY29tLw,,/product/3/form_key/ChKKzJ1MAeajwqZo/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                        <ul class="add-to-links">
+                                                    <li><a href="http://myblute.com/index.php/wishlist/index/add/product/3/form_key/ChKKzJ1MAeajwqZo/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                            <li><span class="separator">|</span> <a href="http://myblute.com/index.php/catalog/product_compare/add/product/3/uenc/aHR0cDovL215Ymx1dGUuY29tLw,,/form_key/ChKKzJ1MAeajwqZo/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                            </ul>
+                </div>
+            </li>
+                </ul>
+            
